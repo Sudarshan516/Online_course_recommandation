@@ -69,7 +69,7 @@ KNN recommends courses by measuring the similarity between the selected course a
 Courses with the smallest distance are considered the most similar.
 # 💻 Streamlit Application
 
-# The app.py file provides the user interface.Workflow
+### The app.py file provides the user interface.Workflow
 Load processed dataset.
 Load trained KNN model.
 Display course selection dropdown.
